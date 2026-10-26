@@ -1,0 +1,16 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local honeypot data
+honeypot.db
+attack_logs.csv
+*.db
+*.sqlite
+*.sqlite3
+
+# Streamlit local configuration
+.streamlit/secrets.toml
